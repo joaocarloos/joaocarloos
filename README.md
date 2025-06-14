@@ -1,6 +1,6 @@
 ## Olá! Sou o João Carlos 👋
 
-- 🔭 Hoje curso Mestrado em Estátistica na Universidade Federal de Alfenas
+- 🔭 Hoje curso Doutorado em Estátistica na Universidade Federal de Lavras
 - 🌱 Estou estudando Python, R, HTML e CSS
 
 <div>
